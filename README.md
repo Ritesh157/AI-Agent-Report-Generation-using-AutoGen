@@ -92,7 +92,7 @@ This system automatically generates comprehensive sales and marketing reports by
 │  • 5 embedded chart images                              │
 │  • Professional formatting                              │
 │                                                         │
-│  Telegram: +919667959361                                │
+│  Telegram: +91XXXXXXXXXX                                │
 │  • Chart images with captions                           │
 │  • Report documents                                     │
 │  • Instant delivery                                     │
@@ -516,7 +516,7 @@ report = generate_custom_analysis_report(
    ├── Sends header message with date
    ├── Sends 5 chart images with captions
    ├── Sends 3 report documents
-   └── Delivers to: +919667959361
+   └── Delivers to: +91XXXXXXXXXX
 ```
 
 ---
@@ -694,7 +694,7 @@ Available report functions:
 **Configuration:**
 - API ID: From https://my.telegram.org/apps
 - API Hash: From Telegram
-- Phone: Recipient number (+919667959361)
+- Phone: Recipient number (+91XXXXXXXXXX)
 
 ### 9. Daily Scheduler
 
