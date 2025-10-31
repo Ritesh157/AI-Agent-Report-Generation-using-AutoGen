@@ -1,0 +1,15 @@
+pyautogen==0.2.18
+# openai==1.3.9
+Euriai
+chromadb
+python-dotenv
+pandas
+schedule
+pytz
+matplotlib
+plotly
+kaleido
+telethon
+Pillow
+httpx
+numpy
